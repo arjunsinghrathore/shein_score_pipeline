@@ -1,0 +1,3 @@
+[submodule "brain-score"]
+	path = brain-score
+	url = git@github.com:arjunsinghrathore/shein_score_pipeline.git
